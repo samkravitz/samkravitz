@@ -1,10 +1,10 @@
-### Hi, I'm Sam!
+### Hi, I'm Sam! 👋
 
-- I'm a full stack developer currently working at a medical technology nonprofit
-- My main interests are emulation and operating systems
-- Outside of computing my hobbies include basketball, chess, and swimming
-- Passionate about open source. Favorite OSS: [Dolphin](https://github.com/dolphin-emu/dolphin)
-- Let's code for good!
+- 💥 I'm a full stack developer currently working at a medical technology nonprofit
+- 📚 My main interests are emulation and operating systems
+- ❗ Outside of computing my hobbies include basketball 🏀, chess ♟️, and swimming 🏊
+- 🔥 Passionate about open source. Favorite OSS: [Dolphin](https://github.com/dolphin-emu/dolphin)
+- 🤓 Let's code for good!
 
 <p align="center">
     <img src="img/cpp.svg" alt="c++" width="65" height="65"/>
